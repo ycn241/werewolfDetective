@@ -1,0 +1,71 @@
+﻿title: Skull
+tags:
+colorID: 0
+---
+//visiting skull for the first time
+//skull has a dry whisper for a voice
+<<if visited("Skull") is false>>
+    Player: Is...
+    Player: Is that a skull?
+    Skull: You ain't pretty either, furball.
+<<else>>
+    Player: Yo.
+    Skull: 'Sup.
+<<endif>>
+
+-> What happened to your body?
+    <<jump Skull_Body>>
+-> Have you seen anything suspicious lately?
+    <<jump Skull_Witness>>
+-> See you later.
+    <<jump Skull_Bye>>
+
+===
+
+title: Skull_Body
+tags:
+colorID: 0
+---
+Skull: Rats took everything from me.
+Skull: Last night a rat stole my penis.
+-> I'm sorry to hear that.
+    <<jump Skull_Body_Sorry>>
+-> You mean your 'boner?'
+    <<jump Skull_Body_Boner>>
+===
+
+title: Skull_Body_Sorry
+tags:
+colorID: 0
+---
+//if player chose 'sorry to hear that'
+Skull: I don't suppose you'll get it back for me?
+Player: I'll... keep a lookout.
+===
+
+title: Skull_Body_Bonder
+tags:
+colorID: 0
+---
+//if player chose "boner" response
+Skull: Hardy har.
+Player: I've got more bone jokes if you want to hear them.
+Skull: No.
+===
+
+title: Skull_Witness
+tags:
+colorID: 0
+---
+Skull: Can't say that I have, with not having any eyes.
+Player: But you knew I was a werewolf?
+Skull: I could smell it on you.
+Player: ???
+===
+
+title: Skull_Bye
+tags:
+colorID: 0
+---
+Skull: See ya.
+===
