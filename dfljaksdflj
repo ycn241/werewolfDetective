@@ -1,0 +1,154 @@
+[33mcommit 26ac193f0ee09ed4e22cde60b457517687a6092e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ycn241 <80133156+ycn241@users.noreply.github.com>
+Date:   Wed Apr 5 16:02:43 2023 -0500
+
+    First commit, I think, finally adding files
+
+.gitignore
+.vscode/settings.json
+Assets/Dialogue.meta
+Assets/Dialogue/Skull.yarn
+Assets/Dialogue/Skull.yarn.meta
+Assets/Prefab.meta
+Assets/Prefab/Basic Square Variant.prefab
+Assets/Prefab/Basic Square Variant.prefab.meta
+Assets/Prefab/Detective.prefab
+Assets/Prefab/Detective.prefab.meta
+Assets/Prefab/Invisible Wall.prefab
+Assets/Prefab/Invisible Wall.prefab.meta
+Assets/Scenes.meta
+Assets/Scenes/Church.unity
+Assets/Scenes/Church.unity.meta
+Assets/Scenes/IR.unity
+Assets/Scenes/IR.unity.meta
+Assets/Scenes/Police_Lobby.unity
+Assets/Scenes/Police_Lobby.unity.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/SampleScene.unity.meta
+Assets/Scenes/Street.unity
+Assets/Scenes/Street.unity.meta
+Assets/Scenes/Street_beginning.unity
+Assets/Scenes/Street_beginning.unity.meta
+Assets/Scenes/forest_giant_park.unity
+Assets/Scenes/forest_giant_park.unity.meta
+Assets/Scripts.meta
+Assets/Scripts/Detective.cs
+Assets/Scripts/Detective.cs.meta
+Assets/Scripts/Dialogue Stuff.meta
+Assets/Scripts/Dialogue Stuff/Inspectable.cs
+Assets/Scripts/Dialogue Stuff/Inspectable.cs.meta
+Assets/Scripts/Dialogue Stuff/Interactable.cs
+Assets/Scripts/Dialogue Stuff/Interactable.cs.meta
+Assets/Scripts/Dialogue Stuff/InventoryItemData.cs
+Assets/Scripts/Dialogue Stuff/InventoryItemData.cs.meta
+Assets/Scripts/Dialogue Stuff/NPC.cs
+Assets/Scripts/Dialogue Stuff/NPC.cs.meta
+Assets/Scripts/streetToChurch.cs
+Assets/Scripts/streetToChurch.cs.meta
+Assets/Settings.meta
+Assets/Settings/Lit2DSceneTemplate.scenetemplate
+Assets/Settings/Lit2DSceneTemplate.scenetemplate.meta
+Assets/Settings/Renderer2D.asset
+Assets/Settings/Renderer2D.asset.meta
+Assets/Settings/Scenes.meta
+Assets/Settings/Scenes/URP2DSceneTemplate.unity
+Assets/Settings/Scenes/URP2DSceneTemplate.unity.meta
+Assets/Settings/UniversalRP.asset
+Assets/Settings/UniversalRP.asset.meta
+Assets/Shaders.meta
+Assets/Shaders/Sky.shadergraph
+Assets/Shaders/Sky.shadergraph.meta
+Assets/Shaders/Sky_blue.mat
+Assets/Shaders/Sky_blue.mat.meta
+Assets/Shaders/TestUnitShader.shader
+Assets/Shaders/TestUnitShader.shader.meta
+Assets/Sprites.meta
+Assets/Sprites/Backgrounds.meta
+Assets/Sprites/Backgrounds/church background 1.png
+Assets/Sprites/Backgrounds/church background 1.png.meta
+Assets/Sprites/Backgrounds/city way background.png
+Assets/Sprites/Backgrounds/city way background.png.meta
+Assets/Sprites/Backgrounds/forest giant-1.png.png
+Assets/Sprites/Backgrounds/forest giant-1.png.png.meta
+Assets/Sprites/Backgrounds/forest giant.png
+Assets/Sprites/Backgrounds/forest giant.png.meta
+Assets/Sprites/Church.meta
+Assets/Sprites/Church/bench.png
+Assets/Sprites/Church/bench.png.meta
+Assets/Sprites/Church/carpet.png
+Assets/Sprites/Church/carpet.png.meta
+Assets/Sprites/Church/church window.png
+Assets/Sprites/Church/church window.png.meta
+Assets/Sprites/Church/churchToStreet.cs
+Assets/Sprites/Church/churchToStreet.cs.meta
+Assets/Sprites/Church/collection box.png
+Assets/Sprites/Church/collection box.png.meta
+Assets/Sprites/Church/cross.png
+Assets/Sprites/Church/cross.png.meta
+Assets/Sprites/Church/lobbyToApse.cs
+Assets/Sprites/Church/lobbyToApse.cs.meta
+Assets/Sprites/Church/nun.png
+Assets/Sprites/Church/nun.png.meta
+Assets/Sprites/Church/podium.png
+Assets/Sprites/Church/podium.png.meta
+Assets/Sprites/Church/priest body.png
+Assets/Sprites/Church/priest body.png.meta
+Assets/Sprites/Detective sprite.png
+Assets/Sprites/Detective sprite.png.meta
+Assets/Sprites/Forest giant eyes.png
+Assets/Sprites/Forest giant eyes.png.meta
+Assets/Sprites/Police.meta
+Assets/Sprites/Police/chair.png
+Assets/Sprites/Police/chair.png.meta
+Assets/Sprites/Police/detective wrong.png
+Assets/Sprites/Police/detective wrong.png.meta
+Assets/Sprites/Police/mirror.png
+Assets/Sprites/Police/mirror.png.meta
+Assets/Sprites/Police/security door.png
+Assets/Sprites/Police/security door.png.meta
+Assets/Sprites/Police/table.png
+Assets/Sprites/Police/table.png.meta
+Assets/Sprites/Police/tile floor police.png
+Assets/Sprites/Police/tile floor police.png.meta
+Assets/Sprites/Police/vampire police table.png
+Assets/Sprites/Police/vampire police table.png.meta
+Assets/Sprites/Street lamp.png
+Assets/Sprites/Street lamp.png.meta
+Assets/Sprites/base_square.png
+Assets/Sprites/base_square.png.meta
+Assets/Sprites/moon.png
+Assets/Sprites/moon.png.meta
+Assets/Sprites/skull.png
+Assets/Sprites/skull.png.meta
+Assets/UniversalRenderPipelineGlobalSettings.asset
+Assets/UniversalRenderPipelineGlobalSettings.asset.meta
+Assets/streetToChurch.cs
+Assets/streetToChurch.cs.meta
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/ShaderGraphSettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/URPProjectSettings.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/VersionControlSettings.asset
+ProjectSettings/XRSettings.asset
+ProjectSettings/boot.config

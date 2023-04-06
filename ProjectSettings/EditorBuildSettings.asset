@@ -14,4 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Church.unity
     guid: db81979dd8eb28b4baf0b1cf7a18bdd9
+  - enabled: 1
+    path: Assets/Scenes/IR.unity
+    guid: c0ed08f7990cf7848b6017958a53abc8
+  - enabled: 1
+    path: Assets/Scenes/Police Street Arrival.unity
+    guid: 15dc29cb87d08e7428bff224011382e1
+  - enabled: 1
+    path: Assets/Scenes/Police Street.unity
+    guid: cad1da09469545d4583fb103d723069b
+  - enabled: 1
+    path: Assets/Scenes/Police_Lobby.unity
+    guid: 1fbbb18ab74dfd5428862a0194fb38dc
   m_configObjects: {}
